@@ -2,6 +2,7 @@
 import cv2
 import numpy as np
 import functions as fs
+import os
 
 def remove_noise(image):
     image = fs.threshold(image)  # 이미지 이진화
@@ -20,6 +21,55 @@ def remove_noise(image):
     masked_image = cv2.bitwise_and(image, mask)  # 보표 영역 추출
 
     return masked_image, subimages
+
+
+def split_and_save_staves(images, output_folder="split_staves_images"):
+    split_images = []  # 분리된 이미지들을 저장할 리스트
+
+    for idx, image in enumerate(images):
+        height, width = image.shape
+        staves = []  # 오선의 좌표들이 저장될 리스트
+
+        # 이미지에서 오선 찾기
+        for row in range(height):
+            pixels = np.sum(image[row, :] == 255)
+            if pixels >= width * 0.5:
+                if len(staves) == 0 or abs(staves[-1][0] + staves[-1][1] - row) > 1:
+                    staves.append([row, 0])
+                else:
+                    staves[-1][1] += 1
+
+        # 오선이 5개 미만인 경우, 원본 이미지 저장
+        if len(staves) < 5:
+            print(f"이미지 {idx + 1}에서 5개 이상의 오선을 찾지 못했습니다. 원본 이미지를 저장합니다.")
+            split_images.append(image)
+            continue
+
+        # 5번째 오선의 끝 위치 계산
+        fifth_staff_end = int((staves[4][0] + staves[5][0]) / 2)
+
+        # 오선 5번째까지 포함하는 부분
+        top_part = image[:fifth_staff_end, :]
+
+        # 나머지 부분
+        bottom_part = image[fifth_staff_end:, :]
+
+        # 리스트에 추가 (top part와 bottom part 순서대로)
+        split_images.append(top_part)
+        split_images.append(bottom_part)
+
+    # 폴더 생성 및 이미지 저장
+    if not os.path.exists(output_folder):
+        os.makedirs(output_folder)
+
+    for idx, split_image in enumerate(split_images):
+        image_path = os.path.join(output_folder, f"part_{idx + 1}.png")
+        cv2.imwrite(image_path, split_image)
+        print(f"분리된 이미지 {idx + 1} 저장: {image_path}")
+
+    print("모든 이미지 처리 완료.")
+
+    return split_images
 
 def remove_staves(image):
     height, width = image.shape
