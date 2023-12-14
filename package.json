@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@folkdb/vextab-render-svg": "^1.0.1",
+    "cors": "^2.8.5",
+    "dom-to-image": "^2.6.0",
+    "express": "^4.18.2",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.1",
+    "multer": "^1.4.5-lts.1",
+    "puppeteer": "^21.6.0",
+    "svg2pdf.js": "^2.2.2",
+    "vexflow": "^4.2.3",
+    "vextab": "^3.0.6"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "type": "module"
+}
