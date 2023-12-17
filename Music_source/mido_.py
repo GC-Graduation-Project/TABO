@@ -215,8 +215,8 @@ if last_rest_duration is not None and last_rest_duration != 0.0:
 with open('bell_piano2.txt', 'w') as file:
     for note_info in output_notes:
         # 파일에 output_notes의 정보를 기록
-        file.write(f"{note_info[1]}, {note_info[0]}\n")
-        print(f"[{note_info[1]}, {note_info[0]}], ")
+        file.write(f"{note_info[1]}, {note_info[0]},\n")
+        print(f"['{note_info[1]}', '{note_info[0]}'], ")
 
 print('Result saved')
 
