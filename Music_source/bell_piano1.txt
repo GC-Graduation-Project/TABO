@@ -1,0 +1,97 @@
+Eight Note, D4
+Eight Note, B4
+Eight Note, A4
+Eight Note, G4
+Dotted Quarter Note, D4
+Eight rest, B4
+Eight Note, D4
+Eight Note, B4
+Eight Note, A4
+Eight Note, G4
+Half Note, E4
+Eight Note, E4
+Eight Note, C5
+Eight Note, B4
+Eight Note, A4
+Half Note, F#4
+Eight Note, D5
+Eight Note, D5
+Eight Note, C5
+Eight Note, A4
+Quarter Note, B4
+Quarter Note, G4
+Eight Note, D4
+Eight Note, B4
+Eight Note, A4
+Eight Note, G4
+Dotted Quarter Note, D4
+Eight rest, B4
+Eight Note, D4
+Eight Note, B4
+Eight Note, A4
+Eight Note, G4
+Dotted Quarter Note, E4
+Eight Note, E4
+Eight Note, E4
+Eight Note, C5
+Eight Note, B4
+Eight Note, A4
+Dotted Eight Note, D5
+Sixteen Note, D5
+Eight Note, D5
+Eight Note, D5
+Eight Note, E5
+Eight Note, D5
+Eight Note, C5
+Eight Note, A4
+Quarter Note, G4
+Quarter Note, G5
+Eight Note, B4
+Eight Note, B4
+Quarter Note, B4
+Eight Note, B4
+Eight Note, B4
+Quarter Note, B4
+Eight Note, B4
+Eight Note, D5
+Dotted Eight Note, G4
+Sixteen Note, A4
+Half Note, B4
+Eight Note, C5
+Eight Note, C5
+Dotted Eight Note, C5
+Sixteen Note, C5
+Eight Note, C5
+Eight Note, B4
+Eight Note, B4
+Eight Note, B4
+Eight Note, B4
+Eight Note, A4
+Eight Note, A4
+Eight Note, B4
+Quarter Note, A4
+Quarter Note, D5
+Eight Note, B4
+Eight Note, B4
+Quarter Note, B4
+Eight Note, B4
+Eight Note, B4
+Quarter Note, B4
+Eight Note, B4
+Eight Note, D5
+Dotted Eight Note, G4
+Sixteen Note, A4
+Half Note, B4
+Eight Note, C5
+Eight Note, C5
+Dotted Eight Note, C5
+Sixteen Note, C5
+Eight Note, C5
+Eight Note, B4
+Eight Note, B4
+Eight Note, B4
+Eight Note, D5
+Eight Note, D5
+Eight Note, C5
+Eight Note, A4
+Quarter Note, G4

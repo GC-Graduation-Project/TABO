@@ -1,0 +1,715 @@
+Eight Note, A2
+Dotted Half rest, B4
+Sixteen Note, F2
+Sixteenth rest, B4
+Dotted Eight Note, C3
+Dotted Eight Note, F2
+Dotted Eighth rest, B4
+Eight Note, G2
+Sixteenth rest, B4
+Eight Note, G2
+Quarter rest, B4
+Dotted Eight Note, A2
+Dotted Half rest, B4
+Eight Note, F2
+Sixteen Note, C3
+Sixteenth rest, B4
+Eight Note, F2
+Quarter rest, B4
+Quarter Note, G2
+Sixteen Note, D3
+Eight Note, D3
+Quarter rest, B4
+Dotted Quarter Note, A2
+Dotted Half rest, B4
+Dotted Eight Note, F2
+Sixteen Note, C3
+Dotted Eight Note, F2
+Dotted Eighth rest, B4
+Eight Note, G2
+Sixteen Note, D3
+Eight Note, G2
+Quarter rest, B4
+Sixteen Note, C3
+Eight Note, F2
+Eight rest, B4
+Sixteen Note, F2
+Sixteenth rest, B4
+Sixteen Note, C3
+Sixteen Note, F2
+Sixteenth rest, B4
+Sixteen Note, F2
+Dotted Eighth rest, B4
+Half Note, E2
+Sixteen Note, B2
+Sixteenth rest, B4
+Sixteen Note, F#2
+Sixteenth rest, B4
+Sixteen Note, E2
+Sixteen Note, B2
+Sixteenth rest, B4
+Eight Note, G2
+Dotted Eight Note, E2
+Sixteen Note, B2
+Sixteenth rest, B4
+Eight Note, A2
+Sixteen Note, E3
+Eight Note, A2
+Dotted Half rest, B4
+Sixteen Note, C3
+Quarter Note, F2
+Eight Note, C3
+Quarter rest, B4
+Quarter Note, G2
+Sixteen Note, D3
+Dotted Quarter rest, B4
+Dotted Eight Note, A2
+Dotted Half rest, B4
+Sixteen Note, F2
+Sixteenth rest, B4
+Sixteen Note, C3
+Sixteen Note, F2
+Dotted Quarter rest, B4
+Quarter Note, G2
+Sixteen Note, D3
+Dotted Quarter rest, B4
+Dotted Eight Note, A2
+Dotted Half rest, B4
+Sixteen Note, C3
+Dotted Eight Note, F2
+Dotted Eighth rest, B4
+Eight Note, G2
+Eight Note, D3
+Eight Note, G2
+Quarter rest, B4
+Eight Note, F2
+Eight Note, C3
+Half Note, F2
+Sixteen Note, C3
+Eight rest, B4
+Sixteen Note, C3
+Sixteen Note, F2
+Sixteenth rest, B4
+Dotted Eight Note, E2
+Quarter rest, B4
+Eight Note, G#2
+Eight Note, B2
+Eight Note, E2
+Sixteen Note, B2
+Sixteenth rest, B4
+Sixteen Note, B2
+Dotted Eight Note, E2
+Sixteen Note, B2
+Dotted Quarter rest, B4
+Eight Note, A2
+Eight Note, G2
+Sixteen Note, D3
+Sixteenth rest, B4
+Dotted Eight Note, A2
+Quarter rest, B4
+Eight Note, A2
+Dotted Eighth rest, B4
+Sixteen Note, A2
+Sixteenth rest, B4
+Eight Note, G2
+Eight Note, D3
+Dotted Eight Note, A2
+Sixteenth rest, B4
+Quarter Note, G2
+Sixteen Note, D3
+Dotted Quarter rest, B4
+Eight Note, A2
+Sixteen Note, E3
+Sixteenth rest, B4
+Sixteen Note, G2
+Sixteen Note, D3
+Eight Note, G2
+Eight Note, A2
+Quarter rest, B4
+Eight Note, A2
+Eight rest, B4
+Sixteen Note, G2
+Eight Note, A2
+Dotted Eighth rest, B4
+Quarter Note, A2
+Dotted Quarter rest, B4
+Eight Note, A2
+Eight Note, G2
+Dotted Eight Note, A2
+Dotted Eighth rest, B4
+Dotted Eight Note, A2
+Eight rest, B4
+Sixteen Note, A2
+Sixteenth rest, B4
+Eight Note, G2
+Sixteen Note, D3
+Sixteenth rest, B4
+Dotted Eight Note, A2
+Sixteenth rest, B4
+Quarter Note, G2
+Sixteen Note, D3
+Dotted Quarter rest, B4
+Eight Note, A2
+Sixteen Note, E3
+Sixteenth rest, B4
+Sixteen Note, G2
+Dotted Eight Note, A2
+Sixteen Note, E3
+Quarter rest, B4
+Sixteen Note, E3
+Dotted Eighth rest, B4
+Dotted Half Note, E2
+Eight Note, B2
+Dotted Eighth rest, B4
+Eight Note, B2
+Quarter rest, B4
+Eight Note, G2
+Sixteenth rest, B4
+Dotted Eight Note, A2
+Dotted Eighth rest, B4
+Eight Note, A2
+Sixteen Note, G2
+Sixteenth rest, B4
+Dotted Quarter Note, F2
+Dotted Quarter Note, C3
+Eight rest, B4
+Quarter Note, B2
+Eight Note, C3
+Sixteen Note, D3
+Dotted Eighth rest, B4
+Eight Note, A2
+Sixteen Note, G2
+Sixteen Note, A3
+Quarter Note, A2
+Eight Note, A2
+Sixteen Note, G2
+Sixteen Note, D3
+Sixteen Note, G2
+Sixteenth rest, B4
+Sixteen Note, C3
+Dotted Quarter Note, F2
+Eight Note, C3
+Sixteenth rest, B4
+Dotted Eight Note, C3
+Quarter rest, B4
+Eight Note, B2
+Eight rest, B4
+Eight Note, A2
+Sixteen Note, G2
+Quarter Note, A2
+Eight rest, B4
+Eight Note, A2
+Eight Note, G2
+Dotted Quarter Note, F2
+Sixteen Note, C3
+Quarter rest, B4
+Sixteen Note, C3
+Dotted Eighth rest, B4
+Quarter Note, B2
+Eight Note, C3
+Eight rest, B4
+Eight Note, C3
+Eight Note, G3
+Eight Note, C3
+Eight Note, G3
+Sixteen Note, D3
+Sixteenth rest, B4
+Quarter Note, E2
+Quarter Note, B2
+Dotted Eight Note, E2
+Sixteenth rest, B4
+Eight Note, B2
+Sixteen Note, G#2
+Eight Note, E2
+Sixteen Note, E2
+Half rest, B4
+Quarter Note, A2
+Sixteen Note, E3
+Dotted Half rest, B4
+Sixteen Note, C3
+Sixteen Note, F2
+Eight rest, B4
+Eight Note, G2
+Sixteen Note, D3
+Sixteenth rest, B4
+Dotted Eight Note, G2
+Eight Note, D3
+Quarter rest, B4
+Dotted Eight Note, A2
+Dotted Half rest, B4
+Eight Note, F2
+Eight Note, F2
+Eight rest, B4
+Eight Note, G2
+Eight Note, D3
+Eight Note, G2
+Quarter rest, B4
+Eight Note, A2
+Dotted Eight Note, A2
+Dotted Half rest, B4
+Eight Note, F2
+Dotted Eight Note, F2
+Dotted Eighth rest, B4
+Eight Note, G2
+Eight Note, D3
+Quarter rest, B4
+Eight Note, F2
+Sixteen Note, C3
+Sixteenth rest, B4
+Eight Note, F2
+Sixteen Note, C3
+Dotted Eight Note, F2
+Eight Note, C3
+Sixteen Note, A2
+Eight Note, C3
+Dotted Quarter Note, E2
+Sixteen Note, B2
+Sixteenth rest, B4
+Eight Note, B2
+Sixteen Note, E2
+Sixteenth rest, B4
+Sixteen Note, F#2
+Sixteenth rest, B4
+Sixteen Note, G2
+Eight Note, E2
+Eight Note, A2
+Dotted Half rest, B4
+Sixteen Note, F2
+Sixteenth rest, B4
+Sixteen Note, F2
+Quarter rest, B4
+Quarter Note, G2
+Sixteen Note, D3
+Dotted Quarter rest, B4
+Dotted Quarter Note, A2
+Dotted Half rest, B4
+Sixteen Note, C3
+Eight Note, F2
+Quarter rest, B4
+Eight Note, G2
+Sixteen Note, D3
+Dotted Eight Note, G2
+Quarter rest, B4
+Dotted Eight Note, A2
+Dotted Half rest, B4
+Quarter Note, F2
+Sixteen Note, C3
+Dotted Quarter rest, B4
+Eight Note, G2
+Sixteen Note, D3
+Sixteen Note, G2
+Quarter rest, B4
+Sixteen Note, C3
+Sixteen Note, F2
+Sixteenth rest, B4
+Eight Note, F2
+Eight rest, B4
+Eight Note, F2
+Sixteen Note, F3
+Quarter Note, F2
+Sixteen Note, C3
+Dotted Eighth rest, B4
+Sixteen Note, C3
+Sixteenth rest, B4
+Dotted Eight Note, E2
+Sixteenth rest, B4
+Sixteen Note, E2
+Dotted Eighth rest, B4
+Eight Note, E2
+Sixteen Note, B2
+Sixteenth rest, B4
+Eight Note, G#2
+Sixteen Note, E2
+Sixteenth rest, B4
+Sixteen Note, B2
+Eight Note, E2
+Half rest, B4
+Eight Note, A2
+Dotted Eight Note, A2
+Quarter rest, B4
+Eight Note, A2
+Dotted Eight Note, A2
+Sixteenth rest, B4
+Quarter Note, G2
+Sixteen Note, D3
+Eight rest, B4
+Sixteen Note, F#2
+Quarter rest, B4
+Eight Note, A2
+Eight Note, G2
+Dotted Eight Note, A2
+Quarter rest, B4
+Dotted Eight Note, A2
+Eight Note, D3
+Sixteen Note, G2
+Sixteenth rest, B4
+Dotted Eight Note, A2
+Sixteenth rest, B4
+Quarter Note, A2
+Sixteen Note, G#2
+Dotted Quarter rest, B4
+Eight Note, A2
+Eight Note, G2
+Sixteen Note, D3
+Sixteenth rest, B4
+Eight Note, A2
+Quarter rest, B4
+Eight Note, A2
+Eight rest, B4
+Eight Note, A2
+Eight Note, G2
+Dotted Eight Note, A2
+Sixteenth rest, B4
+Quarter Note, G2
+Sixteen Note, D3
+Dotted Quarter rest, B4
+Dotted Eight Note, A2
+Quarter rest, B4
+Eight Note, E3
+Sixteenth rest, B4
+Dotted Quarter Note, E2
+Eight Note, B2
+Eight rest, B4
+Quarter Note, E2
+Sixteenth rest, B4
+Eight Note, A2
+Sixteen Note, E3
+Sixteenth rest, B4
+Eight Note, G2
+Dotted Eight Note, A2
+Dotted Eighth rest, B4
+Eight Note, A2
+Dotted Quarter Note, F2
+Sixteen Note, C3
+Dotted Eighth rest, B4
+Eight Note, C3
+Eight rest, B4
+Quarter Note, B2
+Sixteen Note, C3
+Sixteenth rest, B4
+Eight Note, D3
+Eight rest, B4
+Eight Note, G2
+Sixteenth rest, B4
+Eight Note, A2
+Sixteen Note, G2
+Sixteen Note, C3
+Dotted Quarter Note, F2
+Sixteen Note, A2
+Sixteenth rest, B4
+Eight Note, C3
+Eight rest, B4
+Sixteen Note, C3
+Sixteenth rest, B4
+Eight Note, B2
+Eight rest, B4
+Eight Note, A2
+Sixteenth rest, B4
+Dotted Eight Note, A2
+Dotted Eighth rest, B4
+Sixteen Note, D3
+Sixteen Note, G2
+Sixteenth rest, B4
+Sixteen Note, C3
+Dotted Quarter Note, F2
+Eight rest, B4
+Quarter Note, B2
+Eight Note, C3
+Eight Note, D3
+Eight rest, B4
+Eight Note, C3
+Eight Note, G3
+Eight Note, C3
+Dotted Eighth rest, B4
+Dotted Quarter Note, E2
+Sixteen Note, E3
+Half rest, B4
+Sixteen Note, B2
+Dotted Eight Note, G#2
+Eight Note, E2
+Dotted Eight Note, B2
+Sixteen Note, E3
+Sixteen Note, E2
+Dotted Half rest, B4
+Dotted Eight Note, A2
+Dotted Half rest, B4
+Dotted Quarter Note, F2
+Sixteen Note, C3
+Quarter rest, B4
+Eight Note, G2
+Dotted Eighth rest, B4
+Dotted Eight Note, A2
+Dotted Half rest, B4
+Eight Note, F2
+Quarter Note, C3
+Quarter rest, B4
+Quarter Note, G2
+Sixteen Note, D3
+Quarter rest, B4
+Dotted Eight Note, A2
+Dotted Half rest, B4
+Eight Note, F2
+Sixteenth rest, B4
+Sixteen Note, C3
+Sixteen Note, F2
+Quarter rest, B4
+Eight Note, G2
+Sixteen Note, D3
+Sixteenth rest, B4
+Eight Note, G2
+Quarter rest, B4
+Sixteen Note, F2
+Eight rest, B4
+Dotted Eight Note, F2
+Sixteen Note, A2
+Eight Note, C3
+Quarter Note, E2
+Sixteen Note, B2
+Eight rest, B4
+Dotted Eight Note, B2
+Sixteenth rest, B4
+Eight Note, E2
+Sixteenth rest, B4
+Sixteen Note, F#2
+Sixteenth rest, B4
+Eight Note, E2
+Eight Note, A2
+Sixteen Note, E3
+Dotted Half rest, B4
+Eight Note, F2
+Sixteen Note, C3
+Quarter rest, B4
+Sixteen Note, D3
+Eight Note, G2
+Dotted Eighth rest, B4
+Dotted Eight Note, A2
+Dotted Half rest, B4
+Quarter Note, G2
+Quarter rest, B4
+Quarter Note, A2
+Dotted Half rest, B4
+Dotted Eight Note, F2
+Sixteen Note, C3
+Dotted Eighth rest, B4
+Quarter Note, G2
+Sixteen Note, D3
+Dotted Quarter rest, B4
+Eight Note, F2
+Sixteen Note, C3
+Sixteenth rest, B4
+Eight Note, F2
+Dotted Eight Note, C3
+Eight Note, F2
+Sixteenth rest, B4
+Sixteen Note, F2
+Sixteen Note, A2
+Sixteenth rest, B4
+Dotted Eight Note, E2
+Sixteenth rest, B4
+Sixteen Note, E2
+Sixteenth rest, B4
+Sixteen Note, E2
+Eight Note, B2
+Sixteen Note, E2
+Eight Note, C#3
+Sixteen Note, F#2
+Sixteen Note, E2
+Sixteenth rest, B4
+Eight Note, G2
+Sixteen Note, D3
+Sixteenth rest, B4
+Eight Note, A2
+Half rest, B4
+Sixteen Note, B2
+Eight Note, F2
+Eight Note, C3
+Sixteen Note, A2
+Sixteenth rest, B4
+Eight Note, C3
+Dotted Eighth rest, B4
+Eight Note, G2
+Eight Note, B2
+Eight rest, B4
+Quarter Note, A2
+Dotted Half rest, B4
+Eight Note, F2
+Eight Note, A2
+Eight Note, C3
+Eight rest, B4
+Eight Note, G2
+Sixteen Note, B2
+Eight rest, B4
+Eight Note, A2
+Dotted Half rest, B4
+Eight Note, C3
+Eight Note, F2
+Sixteen Note, A2
+Sixteen Note, C3
+Dotted Eighth rest, B4
+Eight Note, G2
+Eight Note, B2
+Sixteenth rest, B4
+Sixteen Note, F2
+Sixteen Note, C3
+Sixteenth rest, B4
+Sixteen Note, F2
+Sixteen Note, C3
+Sixteenth rest, B4
+Sixteen Note, F2
+Sixteenth rest, B4
+Eight Note, C3
+Sixteenth rest, B4
+Quarter Note, E2
+Sixteen Note, E3
+Eight rest, B4
+Sixteen Note, B2
+Sixteen Note, G2
+Eight Note, D3
+Eight Note, F#2
+Sixteen Note, E2
+Eight Note, B2
+Sixteenth rest, B4
+Sixteen Note, B2
+Eight Note, E2
+Eight Note, A2
+Eight rest, B4
+Eight Note, A2
+Sixteen Note, C3
+Dotted Eighth rest, B4
+Sixteen Note, G2
+Sixteenth rest, B4
+Sixteen Note, B2
+Sixteenth rest, B4
+Sixteen Note, D3
+Dotted Eighth rest, B4
+Eight Note, A2
+Dotted Quarter rest, B4
+Eight Note, A2
+Sixteenth rest, B4
+Sixteen Note, G#2
+Eight rest, B4
+Sixteen Note, C3
+Eight Note, F2
+Eight Note, A2
+Eight rest, B4
+Eight Note, G2
+Sixteen Note, D3
+Eight rest, B4
+Sixteen Note, B2
+Eight rest, B4
+Dotted Eight Note, A2
+Dotted Half rest, B4
+Eight Note, F2
+Eight Note, A2
+Sixteen Note, C3
+Dotted Eighth rest, B4
+Eight Note, G2
+Sixteenth rest, B4
+Sixteen Note, B2
+Eight rest, B4
+Eight Note, F2
+Sixteen Note, C3
+Dotted Quarter Note, F2
+Sixteen Note, C3
+Sixteenth rest, B4
+Dotted Eight Note, C3
+Sixteenth rest, B4
+Eight Note, A2
+Eight Note, C3
+Quarter Note, E2
+Eight Note, B2
+Eight Note, E2
+Eight Note, B2
+Sixteen Note, E2
+Sixteen Note, B2
+Sixteenth rest, B4
+Sixteen Note, B2
+Sixteen Note, E2
+Sixteenth rest, B4
+Sixteen Note, D3
+Sixteen Note, G2
+Sixteenth rest, B4
+Sixteen Note, E2
+Sixteenth rest, B4
+Sixteen Note, A2
+Sixteenth rest, B4
+Eight Note, A2
+Dotted Half rest, B4
+Eight Note, F2
+Sixteen Note, A2
+Sixteenth rest, B4
+Eight Note, C3
+Eight rest, B4
+Eight Note, G2
+Sixteen Note, B2
+Eight rest, B4
+Eight Note, A2
+Eight rest, B4
+Sixteen Note, A2
+Dotted Quarter rest, B4
+Eight Note, A2
+Eight Note, G#2
+Eight Note, F2
+Sixteenth rest, B4
+Sixteen Note, A2
+Eight Note, C3
+Eight rest, B4
+Eight Note, G2
+Eight Note, B2
+Eight Note, D3
+Eight rest, B4
+Eight Note, A2
+Sixteen Note, E3
+Eight Note, A2
+Dotted Half rest, B4
+Eight Note, F2
+Sixteen Note, C3
+Sixteenth rest, B4
+Sixteen Note, A2
+Sixteen Note, F2
+Sixteenth rest, B4
+Sixteen Note, A2
+Sixteen Note, C3
+Dotted Eighth rest, B4
+Eight Note, B2
+Eight rest, B4
+Eight Note, F2
+Sixteen Note, C3
+Sixteenth rest, B4
+Sixteen Note, F2
+Dotted Eighth rest, B4
+Eight Note, E2
+Quarter rest, B4
+Sixteen Note, D3
+Sixteenth rest, B4
+Sixteen Note, B2
+Sixteenth rest, B4
+Sixteen Note, E2
+Sixteen Note, B2
+Sixteenth rest, B4
+Eight Note, A2
+Eight Note, A2
+Dotted Half rest, B4
+Eight Note, F2
+Sixteenth rest, B4
+Eight Note, C3
+Eight rest, B4
+Eight Note, G2
+Eight Note, B2
+Sixteen Note, G2
+Sixteenth rest, B4
+Sixteen Note, D3
+Dotted Eighth rest, B4
+Eight Note, A2
+Dotted Half rest, B4
+Eight Note, F2
+Sixteen Note, C3
+Sixteenth rest, B4
+Sixteen Note, A2
+Sixteenth rest, B4
+Sixteen Note, C3
+Dotted Eighth rest, B4
+Eight Note, G2
+Eight Note, B2
+Sixteen Note, D3
+Dotted Eighth rest, B4

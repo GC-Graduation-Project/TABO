@@ -2,7 +2,7 @@ import os
 from basic_pitch.inference import predict_and_save
 
 # 입력 오디오 파일의 경로 (bass.wav 파일이 있는 경로를 지정해주세요)
-input_audio_path = "haul.mp3"
+input_audio_path = "sources/Piano.wav"
 
 # 결과 파일들을 저장할 디렉토리 경로 (원하는 저장 위치를 지정해주세요)
 output_directory = os.getcwd()
