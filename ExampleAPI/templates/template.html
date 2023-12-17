@@ -7,13 +7,36 @@
     <title>Vextab Example</title>
     <!-- Include the div.prod.js script -->
     <script src="{{ url_for('static', filename='div.prod.js') }}"></script>
+    <script src="{{ url_for('static', filename='html2canvas.js') }}"></script>
 </head>
 <body>
-    <!-- Vextab content inside a div with class vextab-auto -->
-    <div class="vextab-auto"
-        width=680 scale=1.0 editor="false"
-        editor-width=680 editor-height=330>
-		{{string}}
-    </div>
+    <div class="vextab-auto" width=680 scale=1.0 editor="false" editor-width=680 editor-height=330>{{ string }}</div>
+
+    <script>
+        // 페이지 로드시 자동으로 이미지를 생성하고 서버에 업로드
+        window.addEventListener('load', function() {
+            html2canvas(document.querySelector(".vextab-auto")).then(function (canvas) {
+                var imageDataURL = canvas.toDataURL("image/png");
+
+                // 이미지 데이터를 FormData에 추가
+                var formData = new FormData();
+                formData.append('image_data', imageDataURL);
+
+                // 서버에 이미지를 업로드
+                fetch('/upload_image', {
+                    method: 'POST',
+                    body: formData
+                }).then(response => {
+                    if (response.ok) {
+                        console.log('Image uploaded successfully.');
+                    } else {
+                        console.error('Failed to upload image.');
+                    }
+                }).catch(error => {
+                    console.error('Error uploading image:', error);
+                });
+            });
+        });
+    </script>
 </body>
 </html>
